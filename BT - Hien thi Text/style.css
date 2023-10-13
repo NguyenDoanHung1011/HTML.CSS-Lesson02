@@ -1,0 +1,20 @@
+.section {
+    margin: 0 auto;
+}
+
+.sub_section {
+    text-indent: -2.5%;
+    margin: auto;
+}
+
+body > .sub_section {
+    text-indent: 0;
+    margin-left: 50px;
+}
+
+h2, h3 {
+    margin-left: 50px;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
